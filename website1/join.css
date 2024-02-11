@@ -1,0 +1,104 @@
+*
+ {
+   margin:0; 
+   padding:0;
+}
+header{
+background-image: url('join\ bg.jpg');
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+.nav-menu{
+  float: right;
+  list-style:lower-roman ;
+  margin-top: 30px;
+}
+.nav-menu li{
+  display:inline-block;
+}
+.nav-menu li a{
+  color:azure;
+  text-decoration: none;
+  padding: 10px 10px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+.nav-menu li a:hover{
+border: 1px solid white;
+background-color:grey;
+}
+.home{
+  padding-top: 20px;
+}
+.home a{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+text-decoration: none;
+font-size: 40px;
+} 
+.join{
+  text-align: center;
+  padding: 20px 20px;
+}
+.join h1{
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px;
+  display: inline-block;
+  color: gray;
+  margin-bottom: 10px ;
+}
+.inputs{
+  text-align: center;
+  color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gender{
+  color: rgb(301, 301, 301);
+}
+.gender li{
+  display:inline-block;
+  list-style: none;
+  padding: 2px 5px;
+  text-decoration: none;
+}
+.joinus{
+  margin-top: 20px;
+  margin-left: 0px;
+}
+.button{
+  border: 1px solid white;
+  padding: 10px 20px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+.joinus a:hover{
+  border: 1px solid white;
+  background-color: gray;
+}
+footer{
+    color: aliceblue;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    text-align: center;
+    padding:20px ;
+  }
+  .social{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    font-size: large;
+  }
+  .follow li{
+    display:inline-block;
+    list-style: none;
+    padding: 2px 5px;
+    text-decoration: none;
+  }
+  .copy{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }

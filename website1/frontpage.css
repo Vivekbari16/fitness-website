@@ -1,0 +1,165 @@
+*
+ {
+   margin:0; 
+   padding:0;
+}
+header{
+background-image: url('website\ img\ 1.jpg');
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+
+
+.nav-menu{
+  float: right;
+  list-style:lower-roman ;
+  margin-top: 40px;
+}
+.nav-menu li{
+  display:inline-block;
+}
+.nav-menu li a{
+  color:azure;
+  text-decoration: none;
+  padding: 10px 10px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+.nav-menu li a:hover{
+  border: 1px solid white;
+background-color:grey;
+}
+.home{
+  padding-top: 20px;
+}
+.home a{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: gray;
+  text-decoration: none;
+ font-size: 40px;
+}
+
+.tagline{
+  position: absolute;
+  width: 1000px;
+  margin-left: 20px;
+  margin-top: 50px;
+  color: antiquewhite;
+}
+
+.quote{
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100px;
+text-align: center;
+margin-top: 100px;
+}
+.join{
+  margin-top: 30px;
+  margin-left: 500px;
+}
+.button{
+  border: 1px solid white;
+  padding: 15px 20px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+  transition: 1s;
+}
+.join a:hover{
+  border: 1px solid white;
+  background-color: gray;
+}
+.row{
+  background-image:  url('viba\ img\ 2.jpg');
+  height: 108vh;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  
+}
+.contents{
+  position: absolute;
+  color: aliceblue;
+ text-align: center;
+   padding-top: 300px;
+   padding-left: 20px;
+   width: 500px;
+   font-size: x-large;
+  
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.about{
+  color: black;
+}
+.know{
+  margin-top: 20px;
+  margin-left: 20px;
+  
+  
+}
+.know a:hover{
+  border: 1px solid white;
+  background-color: gray;
+}
+.button2{
+  border: 2px solid black;
+  padding: 5px 5px;
+  color:whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+}
+.sl{
+  display: flex;
+}
+.slide{
+  background-image:  url('js1.jpg');
+  height: 40vh;
+  background-size: cover;
+  background-position: 100px 600px;
+}
+.check{
+  text-align: center;
+  padding-top: 200px;
+}
+.check a:hover{
+  border: 1px solid white;
+  background-color: gray;
+}
+.button3{
+  border: 2px solid black;
+  padding: 5px 5px;
+  color:whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+}
+footer{
+  color: aliceblue;
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+  text-align: center;
+  padding:20px ;
+}
+.social{
+ 
+ text-align: center;
+  margin: 5px;
+  padding: 5px;
+  font-size: large;
+
+}
+.follow li{
+  display:inline-block;
+  list-style: none;
+  padding: 2px 5px;
+  text-decoration: none;
+}
+.copy{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
